@@ -1,0 +1,142 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:#FFFFFF;
+}
+
+/* Header */
+
+.logo {
+color: #4d5ae5;
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
+.studio {
+    color: #2e2f42;
+}
+
+.nav {
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.nav-link {
+color: #2e2f42;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #404bbf;
+}
+
+.contacts {
+    font-style: normal;
+
+}
+
+.contacts-mp {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.contacts-mp:hover, .contacts-mp:focus {
+  color: #404bbf;
+}
+
+
+  /* Section 1 */
+
+  .solutions {
+    background-color:#2e2f42 ;
+  }
+
+  .title-tools {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+  }
+
+  .order-service {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ffffff;
+    cursor: pointer;
+    letter-spacing: 0.04em
+  }
+
+  .order-service:hover, .order-service:focus {
+    background-color: #404BBF;
+  }
+
+  /* Section 2 */
+
+  .tools {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+  }
+
+  .our-tools {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+  }
+
+
+  /* Our team */
+
+  .our-team {
+    background-color: #F4F4FD;
+  }
+
+  .our-team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+  }
+
+  .person {
+    background-color: #FFFFFF;
+  }
+
+  .person-img {
+    background-color: #FFFFFF;
+  }
+
+  /* footer */
+
+  .footer {
+    background-color: #2e2f42;
+  }
+
+.studio-footer {
+    color: #f4f4fd;
+}
+
+.footer-paragraf {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
