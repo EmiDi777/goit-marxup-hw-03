@@ -30,7 +30,6 @@ img {
 }
 
 .container {
-  display: flex;
 align-items: center;
 width: 1158px;
 margin: 0 auto;
@@ -62,8 +61,8 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 text-decoration: none;
 margin-right: 76px;
-display: inline-block;
 margin-bottom: 16px;
+display: inline-block;
 }
 
 a {
