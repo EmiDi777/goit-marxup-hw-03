@@ -41,6 +41,11 @@ img {
   align-items: center;
 }
 
+navigation {
+  display: flex;
+  align-items: center;
+}
+
 .nav-page {
   display: flex;
   gap: 40px;
